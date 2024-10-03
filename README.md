@@ -10,7 +10,7 @@ Handled using the Provider library. The architecture separates the app into mode
 
 ## Folder structure
 ```
-.lib/
+lib/
 ├── configs/
 │   ├── color/
 │   ├── components/
