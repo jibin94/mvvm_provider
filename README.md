@@ -9,7 +9,7 @@ The app is built using the Model-View-ViewModel (MVVM) architecture. This design
 Handled using the Provider library. The architecture separates the app into models, views, and view models, providing a reactive and efficient way to manage application state and update the UI.
 
 ## Folder structure
-`
+
 lib/
 ├── configs/
 │   ├── color/
@@ -56,7 +56,7 @@ lib/
 │   └── splash/
 │
 └── main.dart
-`
+
 
 
 
